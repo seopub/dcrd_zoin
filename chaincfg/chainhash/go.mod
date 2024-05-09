@@ -1,4 +1,4 @@
-module github.com/decred/dcrd/chaincfg/chainhash
+module github.com/seopub/dcrd_zoin/chaincfg/chainhash
 
 go 1.17
 

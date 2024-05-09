@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/davecgh/go-spew v1.1.1
-	github.com/decred/dcrd/chaincfg/chainhash v1.0.4
+	github.com/decred/dcrd/chaincfg/chainhash latest
 	github.com/decred/dcrd/wire v1.6.0
 )
 

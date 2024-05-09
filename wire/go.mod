@@ -1,4 +1,4 @@
-module github.com/decred/dcrd/wire
+module github.com/seopub/dcrd_zoin/wire
 
 go 1.17
 

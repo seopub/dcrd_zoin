@@ -5,14 +5,14 @@ go 1.17
 require (
 	github.com/dchest/siphash v1.2.3
 	github.com/decred/base58 v1.0.5
-	github.com/decred/dcrd/chaincfg/chainhash v1.0.4
-	github.com/decred/dcrd/chaincfg/v3 v3.2.0
-	github.com/decred/dcrd/crypto/blake256 v1.0.1
-	github.com/decred/dcrd/crypto/ripemd160 v1.0.2
-	github.com/decred/dcrd/dcrec v1.0.1
-	github.com/decred/dcrd/dcrec/edwards/v2 v2.0.3
-	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0
-	github.com/decred/dcrd/wire v1.6.0
+	github.comseopub/dcrd_zoin/chaincfg/chainhash v1.0.4
+	github.comseopub/dcrd_zoin/chaincfg/v3 v3.2.0
+	github.comseopub/dcrd_zoin/crypto/blake256 v1.0.1
+	github.comseopub/dcrd_zoin/crypto/ripemd160 v1.0.2
+	github.comseopub/dcrd_zoin/dcrec v1.0.1
+	github.comseopub/dcrd_zoin/dcrec/edwards/v2 v2.0.3
+	github.comseopub/dcrd_zoin/dcrec/secp256k1/v4 v4.2.0
+	github.comseopub/dcrd_zoin/wire v1.6.0
 	github.com/decred/slog v1.2.0
 )
 

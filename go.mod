@@ -1,4 +1,4 @@
-module github.com/decred/dcrd
+module github.com/seopub/dcrd_zoin
 
 go 1.19
 

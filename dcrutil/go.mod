@@ -1,4 +1,4 @@
-module github.com/decred/dcrd/dcrutil/v4
+module github.com/seopub/dcrd_zoin/dcrutil/v3
 
 go 1.17
 

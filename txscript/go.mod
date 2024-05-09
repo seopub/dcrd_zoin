@@ -1,4 +1,4 @@
-module github.com/decred/dcrd/txscript/v4
+module github.com/seopub/dcrd_zoin/txscript/v3
 
 go 1.17
 
